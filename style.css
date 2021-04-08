@@ -1,0 +1,93 @@
+label {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+#submit_button {
+  background-color: #B22222;
+  height: 30px;
+  width: 20%;
+  color: #FFFFFF;
+  font-weight: bold;
+}
+
+input, textarea {
+  background-color: #D3D3D3;
+  color: #2F4F4F;
+  width: 250px;
+  margin-bottom: 10px;
+  box-shadow: 5px 5px 2px 2px #696969;
+}
+
+
+body {
+	color: rgba(0,0,0,.5);
+    background: linear-gradient(to bottom, #FF00FF, blue); /* Standard syntax */
+    /*background-image: linear-gradient(red, yellow, green);*/
+}
+projects
+.sitepic {
+	height: 200px;
+	width: 320px;
+}
+
+career
+.career {
+	line-height: 150%;
+}
+
+projects
+.text {
+	color: black;
+}
+
+aboutme
+.profile {
+	/*height: 800px;
+	width: 1000px; */
+	display: inline-block;
+  	margin: 25px 10px;
+}
+/*.introduction {
+	float: left;
+	width: 50%;
+	
+} */
+projectscarousel
+.carousel-div {
+	height: 550px;
+}
+
+projectscarousel
+.carousel-image {
+	width: 100%;
+}
+
+aboutme
+.intro {
+	color: black;
+}
+
+Header
+.email-add {
+	color: black;
+}
+.research {
+	display: inline-block;
+}
+footer {
+   padding-top: 48px;
+   margin-bottom: 48px;
+   color: #525252;
+   font-size: 14px;
+   text-align: center;
+   position: relative;
+}
+
+footer a, footer a:visited { color: #525252; }
+footer a:hover, footer a:focus { color: #fff; }
+
+.ic {
+	color: white;
+}
+
